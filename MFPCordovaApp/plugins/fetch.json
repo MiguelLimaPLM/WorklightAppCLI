@@ -1,0 +1,178 @@
+{
+    "cordova-plugin-mfp": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-mfp"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-device"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "org.apache.cordova.dialogs": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-dialogs"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "org.apache.cordova.geolocation": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-geolocation"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "org.apache.cordova.globalization": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-globalization"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "org.apache.cordova.inappbrowser": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-inappbrowser"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "org.apache.cordova.network-information": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-network-information"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-mfp-jsonstore": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-mfp-jsonstore"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-mfp-push": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-mfp-push"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.battery-status": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-battery-status"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.camera": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-camera"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-console"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.contacts": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-contacts"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.device-motion": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-device-motion"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.device-orientation": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-device-orientation"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.file": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-file"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.file-transfer": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-file-transfer"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.media": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-media"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.media-capture": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-media-capture"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.splashscreen": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-splashscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.statusbar": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-statusbar"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.vibration": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Program Files\\ibm\\MobileFirst-CLI\\mobilefirst-cli\\node_modules\\cordovacmd\\cordova\\plugins\\cordova-plugin-vibration"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
